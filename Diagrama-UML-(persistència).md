@@ -1,0 +1,1 @@
+![](https://github.com/95domy/android-pds20_3a/blob/master/doc/images/MECU_sprint1.png)
