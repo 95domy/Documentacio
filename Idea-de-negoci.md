@@ -49,12 +49,10 @@ Les preguntes de **MECU!** es divideixen en vàries categories:
 
 - **Matemàtiques**
 - **Anglès**
-- **Català**
 - **Castellà**
 - **Història**
 - **Biologia/Geologia**
 - **Física/Química**
-- **Tecnologia**
 - **Altres**
 
 ### Funcionalitats:
