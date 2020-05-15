@@ -6,7 +6,6 @@
 * Podrà crear i validar preguntes
 * Obtindrà trofeus
 * Podrà cercar usuaris
-* Veurà concursos actius d'usuaris els quals segueix
 * Veurà els seus propis concursos
 * Veurà concursos on hagi estat convidat
 * Podrà consultar el ranking global i/o el dels usuaris que segueix
@@ -18,5 +17,4 @@
 * Podrà veure perfils d'altres usuaris
 * Podrà veure trofeus que han aconseguit altres usuaris
 * Podrà consultar el seu perfil
-* Si és un usuari amb privilegis, es podrà canviar el rol per un rol inferior al seu.
 * Podrà deixar de seguir altres usuaris
