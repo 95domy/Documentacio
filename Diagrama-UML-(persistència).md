@@ -1,4 +1,4 @@
-![](https://github.com/95domy/android-pds20_3a/blob/master/doc/images/MECU_sprint1.png)
+![](https://github.com/udg-pds/android-pds20_3a/blob/master/doc/images/finalPersistance.svg)
 
 En el diagrama anterior hi apareixen referències a:
 - AuthProvider
