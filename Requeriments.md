@@ -2,6 +2,7 @@
 * Registrar-se
 * _Loggejar-se_
 ## Com a usuari *loggejat*:
+* Podrà _desloggejar-se_
 * Podrà seguir altres usuaris
 * Podrà crear i validar preguntes amb les seves respostes
 * Podrà cercar usuaris
