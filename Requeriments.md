@@ -16,3 +16,7 @@
 * Podrà veure trofeus que han aconseguit altres usuaris
 * Podrà consultar el seu perfil
 * Podrà editar el seu perfil (informació i/o avatar)
+## Com a usuari *privilegiat* (professor):
+* Podrà fer tot el que pot fer un usuari _loggejat_
+* Podrà tenir classes amb alumnes
+* Podrà crear i validar preguntes sense passar/acabar el procés de validació
