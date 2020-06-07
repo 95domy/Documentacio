@@ -1,4 +1,4 @@
-D'extra hem utilitzat Firebase, bàsicament per enviar notificacions entre els usuaris:
+D'extra hem utilitzat Firebase, bàsicament per enviar/rebre notificacions entre els usuaris:
 
 - Quant acceptant/rebutjant les meves preguntes.(usuari loguejat)
 
