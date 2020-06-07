@@ -1,9 +1,8 @@
-D'extras hem utilitzat firebase, basicament per enviar notifications entre els usuaris:
+D'extra hem utilitzat Firebase, bàsicament per enviar notificacions entre els usuaris:
 
-     - Quan s'acceptant/rebutjant les meves preguntas.(usuari loguejat)
+- Quant acceptant/rebutjant les meves preguntes.(usuari loguejat)
 
-     - Quan un usuari participa en una batalla que es meva.(usuari loguejat)
+- Quan un usuari participa en una batalla que és meva.(usuari loguejat)
 
-     - Quan una usuari que segueixo participa en una batalla. (Usuari loguejat) 
-
+- Quan un usuari que segueixo participa en una batalla. (Usuari loguejat)
 
