@@ -34,3 +34,15 @@ Finalment en l'apartat de perfil propi es pot veure l'informació del usuari log
 - Trofeus: Igual que amb els altres perfils d'usuaris es mostra l'informació dels trofeus aconseguits i no aconseguits per l'usuari loguejat.
 
 - Classes: Es la entitat que relaciona els professors amb els seus corresponens alumnes. Un estudiant unit a una classes pot unir-se a les batalles fetes pel professor que ha creat aquesta classes.
+
+Per comprovar el funcionament de les notificacions necessitem dos emuladors:
+
+- E1. Logejat com a usuari privilegiat. (pe Nom: usuari password: 123456)
+
+- E2. Logejat com a usuari sense privilegis.(fer el sign up amb qualsevol usuari)
+
+Un cop tinguem tots els passos anteriors completat, ara ja podem procedir a comprovar de què efectivament s'envien les notificacions.
+
+En primer lloc per comprovar quan accepten/rebutjant una pregunta meva. Hem d'anar a l'emulador 1 (Logejat com a usuari sense llicencia), a continuació anem a l'opció crear una pregunta, creem una pregunta qualsevol i les seves respectives respostes i la guardem. Un cop tinguem la pregunta creada ara anem a l'emulador E1, busquem el botó on diu validar preguntes, i ens apareixerà totes les preguntes pendents de validar, busquem la pregunta que hem creat anteriorment a l'emulador E1, un cop la trobem, la validem i ara en principi hi hauria d'aparèixer a l'emulador E2 una notificació de què s'ha validat/rebutjat la pregunta.
+
+En segon lloc, per comprovar quan un usuari participa en una batalla meva. Anem a l'emulador E2, a continuació anem a batalles, busquem una batalla de l'usuari logejat com a usuari(E1) (pe English 1), i quan hàgim acabat de participar en la batalla, l'emulador E1 hauria de rebre una notificació de què un usuari ha participat en la seva batalla.
