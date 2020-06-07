@@ -33,4 +33,4 @@ Finalment en l'apartat de perfil propi es pot veure l'informació del usuari log
 
 - Trofeus: Igual que amb els altres perfils d'usuaris es mostra l'informació dels trofeus aconseguits i no aconseguits per l'usuari loguejat.
 
-- Classes: 
+- Classes: Es la entitat que relaciona els professors amb els seus corresponens alumnes. Un estudiant unit a una classes pot unir-se a les batalles fetes pel professor que ha creat aquesta classes.
